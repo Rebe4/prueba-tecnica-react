@@ -40,9 +40,10 @@ button, input {
   border: 1px solid transparent;
   padding: 0.6em 1.2em;
   font-size: 1em;
-  font-weight: 450;
+  font-weight: 600;
   font-family: inherit;
-  background-color: #757575;
+  background-color: #a3a3a3;
+  color: #292929;
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -58,7 +59,7 @@ button:focus-visible {
   margin-left: 8px;
   padding: 0.4em 0.8em;
   margin-top: 16px;
-  background-color: #494949;
+  background-color: #666666;
 }
 
 input {
@@ -72,8 +73,8 @@ input {
 
 @media (prefers-color-scheme: dark) {
   :root {
-    color: #959da7;
-    background-color: #706f6f;
+    color: #a2a5a8;
+    background-color: #1f1e1e;
   }
   a:hover {
     color: #747bff;
