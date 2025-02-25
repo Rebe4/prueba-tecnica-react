@@ -15,7 +15,7 @@ La aplicación consiste en una lista dinámica donde los usuarios pueden añadir
 - **Generación de identificadores únicos**: Los elementos de la lista tienen identificadores únicos generados mediante `crypto.randomUUID()`, garantizando que cada elemento tenga una clave única.
 - **Interfaz de usuario reactiva**: El diseño es adaptable gracias a la integración de CSS, asegurando una buena experiencia en diferentes dispositivos.
 
-#Tecnologías
+# Tecnologías
 
 - **React**: Para la construcción de la interfaz de usuario.
 - **TypeScript**: Para un código más seguro y con tipado estático.
