@@ -17,8 +17,8 @@ La aplicación consiste en una lista dinámica donde los usuarios pueden añadir
 
 #Tecnologías
 
-React: Para la construcción de la interfaz de usuario.
-TypeScript: Para un código más seguro y con tipado estático.
-Vite: Para una experiencia de desarrollo rápida y optimizada.
-CSS: Para dar estilo a la interfaz de usuario.
-ESLint: Para asegurar la calidad del código con reglas preconfiguradas.
+- **React**: Para la construcción de la interfaz de usuario.
+- **TypeScript**: Para un código más seguro y con tipado estático.
+- **Vite**: Para una experiencia de desarrollo rápida y optimizada.
+- **CSS**: Para dar estilo a la interfaz de usuario.
+- **ESLint**: Para asegurar la calidad del código con reglas preconfiguradas.
