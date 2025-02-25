@@ -8,12 +8,12 @@ La aplicación consiste en una lista dinámica donde los usuarios pueden añadir
 
 # Funcionalidades
 
-Añadir elementos a la lista: Los usuarios pueden agregar nuevos ítems mediante un formulario interactivo.
-Eliminar elementos: Los ítems de la lista pueden eliminarse de manera dinámica.
-Gestión de estado: Utiliza el hook useState de React para manejar el estado de la lista.
-Tipado seguro con TypeScript: Toda la aplicación está escrita en TypeScript, asegurando que el código sea más fácil de mantener y menos propenso a errores.
-Generación de identificadores únicos: Los elementos de la lista tienen identificadores únicos generados mediante crypto.randomUUID(), garantizando que cada elemento tenga una clave única.
-Interfaz de usuario reactiva: El diseño es adaptable gracias a la integración de CSS, asegurando una buena experiencia en diferentes dispositivos.
++Añadir elementos a la lista: Los usuarios pueden agregar nuevos ítems mediante un formulario interactivo.
++Eliminar elementos: Los ítems de la lista pueden eliminarse de manera dinámica.
++Gestión de estado: Utiliza el hook useState de React para manejar el estado de la lista.
++Tipado seguro con TypeScript: Toda la aplicación está escrita en TypeScript, asegurando que el código sea más fácil de mantener y menos propenso a errores.
++Generación de identificadores únicos: Los elementos de la lista tienen identificadores únicos generados mediante crypto.randomUUID(), garantizando que cada elemento tenga una clave única.
++Interfaz de usuario reactiva: El diseño es adaptable gracias a la integración de CSS, asegurando una buena experiencia en diferentes dispositivos.
 
 #Tecnologías
 
