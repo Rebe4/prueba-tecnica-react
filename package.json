@@ -2,7 +2,7 @@
   "name": "prueba-tecnica-react",
   "private": true,
   "version": "0.0.0",
- "homepage": "https://Rebe4.github.io/prueba-tecnica-react",
+ "homepage": "https://prueba-tecnica-react-items.netlify.app/",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
